@@ -3,6 +3,7 @@ import { Section } from './Section/Section';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Container } from './App.styled';
 import { Statistics } from './Statistic/Statistic';
+// import { Notification } from './Notification/Notification';
 
 export class App extends React.Component {
   state = {

@@ -5,12 +5,12 @@ export const Wrapper = styled.div`
   flex-direction: column;
   gap: 10px;
   background-color: rgb(225, 210, 225);
-  padding: 10px;
+  padding: 5px;
   // height: 150px;
-  border-radius: 20px;
+  border-radius: 10px;
 `;
 export const Title = styled.h2`
-  margin: 3rem 5px 1rem 5px;
+  margin: 10px;
   color: #111827;
   font-size: 1.5rem;
   line-height: 2rem;
